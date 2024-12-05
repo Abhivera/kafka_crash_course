@@ -1,4 +1,4 @@
-# Express Js With Typescript Starter KIT 🙌
+# Kafka Crash Course  with Express JS🙌
 
 ## After cloning run the below command to run the project
 
